@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+
+`rerun "ruby app.rb #{ARGV[0]} #{ARGV[1]}"`
